@@ -5,3 +5,5 @@ b=3
 
 def sum(a,b):
     return a
+
+c=b-a
